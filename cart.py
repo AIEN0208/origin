@@ -1,7 +1,26 @@
 
+<<<<<<< HEAD
 print("嫩")
 
 
+=======
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+print("嫩")
+
+>>>>>>> 8f0858d686b32e835822cfc3f029932b07a113ba
 
 print("cart313513153")
 print("cart313513153")
