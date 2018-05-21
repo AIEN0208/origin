@@ -1,1 +1,1 @@
-print("cart")
+print("嫩")
