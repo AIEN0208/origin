@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print("嫩")
 print("嫩")
 print("嫩")
@@ -13,3 +14,18 @@ print("嫩")
 print("嫩")
 print("嫩")
 print("嫩")
+=======
+
+print("cart313513153")
+print("cart313513153")
+print("cart313513153")
+print("cart313513153")
+print("cart313513153")
+print("cart313513153")
+print("蘇健宏")
+print("cart")
+print("我是林沂萱:)")
+print("我是林沂萱XD")
+print("car88420000003513153")
+print("ca441328100003513153")
+>>>>>>> ab7e1e1050540eb61711f80391a5d4a905ed9178
